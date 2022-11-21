@@ -6,7 +6,8 @@ public class DemoTest
 	public static void main(String[] args) 
 	{
 		System.out.println("THis is demo project for Github practice");
-		System.out.println("push");
+		System.out.println("push operation");
+		
 	}
 
 }
